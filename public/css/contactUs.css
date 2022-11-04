@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(215, 212, 212);
+}
+
+.slider-form {
+  box-shadow: 1rem 1rem rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 3px;
+  color: gray;
+  margin: 150px auto;
+  padding-top: 1rem;
+  width: 500px;
+}
+
+h2 {
+  color: #3e00a1;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+.form {
+  padding: 1em;
+}
+
+input {
+  border: none;
+  border-radius: 0.5rem 0.5rem 0 0;
+  margin: 0;
+  padding: 8px 10px;
+  width: 80%;
+  border: 1px solid #dbc441;
+  font: inherit;
+  border-radius: 2px;
+}
+
+button {
+  background-color: #6204f8;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  color: white;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  text-align: center;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: rgb(77, 77, 79);
+}
